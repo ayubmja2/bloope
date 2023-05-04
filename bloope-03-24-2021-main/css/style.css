@@ -1,0 +1,26 @@
+form{
+    clear: both;
+    margin: auto;
+    margin-top: 7%;
+    width:40%;
+    border: 1px solid black;
+    padding: 1%;
+}
+header {
+    display: flex;
+    background-color: #823185;
+    color: white;
+    align-items: center;
+  }
+  
+header h1 {
+    padding: 0;
+    margin:0;
+}
+  header img{
+    padding: 0;
+    vertical-align: text-top;
+    width:100px;
+    height: 100px;
+    margin: 0;
+  }
